@@ -41,7 +41,8 @@ const getConstituencies=async (dom)=>{
         if(i.id.match(/^[^SU]/))
             return;
         const province_id = i.id;
-        const {province_name} = await Province.find({province_id});
+        const {province_name} = await Province.findOne({province_id});
+        console.log(province_name);
         const constituency_string = i.value;
         const constituencies = constituency_string.split(";");
         constituencies.pop(); //remove empty element after ';'
@@ -121,7 +122,7 @@ const createJSON=async () =>{
 
 const main=async()=>{
     //Delete old data, avoiding duplicate entries
-    /*await Promise.all([
+    await Promise.all([
         Province.deleteMany({}),
         Constituencies.deleteMany({}),
         Votes.deleteMany({})
@@ -132,7 +133,7 @@ const main=async()=>{
     const dom = new JSDOM(html);
     await getProvinces(dom);
     await getConstituencies(dom);
-    await getAllVotes();*/
+    await getAllVotes();
     await createJSON();
     console.log("DONE");
     process.exit(0);

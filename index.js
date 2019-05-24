@@ -112,12 +112,14 @@ const getAllVotes=async()=>{
 
 }
 const createJSON=async () =>{
+    if(!(await fs.existsSync("json")))
+        await fs.mkdirSync("json");
     const provinces = await Province.find();
-    await fs.writeFileSync("provinces.json",JSON.stringify(provinces,null,2));
+    await fs.writeFileSync("json/provinces.json",JSON.stringify(provinces,null,2));
     const constituencies = await Constituencies.find();
-    await fs.writeFileSync("constituencies.json",JSON.stringify(constituencies,null,2));
+    await fs.writeFileSync("json/constituencies.json",JSON.stringify(constituencies,null,2));
     const votes = await Votes.find();
-    await fs.writeFileSync("votes.json",JSON.stringify(votes,null,2));
+    await fs.writeFileSync("json/votes.json",JSON.stringify(votes,null,2));
 }
 
 const main=async()=>{

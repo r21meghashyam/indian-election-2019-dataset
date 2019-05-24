@@ -143,7 +143,7 @@ const createJSON=async () =>{
 
 const main=async()=>{
     //Delete old data, avoiding duplicate entries
-    /*await Promise.all([
+    await Promise.all([
         Province.deleteMany({}),
         Constituencies.deleteMany({}),
         Votes.deleteMany({})
@@ -154,7 +154,7 @@ const main=async()=>{
     const dom = new JSDOM(html);
     await getProvinces(dom);
     await getConstituencies(dom);
-    await getAllVotes();*/
+    await getAllVotes();
     await createJSON();
     console.log("DONE");
     process.exit(0);

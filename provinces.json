@@ -1,0 +1,218 @@
+[
+  {
+    "_id": "5ce866173ad053dde7544f81",
+    "province_id": "U01",
+    "province_name": "Andaman &amp; Nicobar Islands",
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544f82",
+    "province_id": "S01",
+    "province_name": "Andhra Pradesh",
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544f83",
+    "province_id": "S02",
+    "province_name": "Arunachal Pradesh",
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544f84",
+    "province_id": "S03",
+    "province_name": "Assam",
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544f85",
+    "province_id": "S04",
+    "province_name": "Bihar",
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544f86",
+    "province_id": "U02",
+    "province_name": "Chandigarh",
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544f87",
+    "province_id": "S26",
+    "province_name": "Chhattisgarh",
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544f89",
+    "province_id": "U04",
+    "province_name": "Daman &amp; Diu",
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544f88",
+    "province_id": "U03",
+    "province_name": "Dadra &amp; Nagar Haveli",
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544f8a",
+    "province_id": "S05",
+    "province_name": "Goa",
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544f8b",
+    "province_id": "S06",
+    "province_name": "Gujarat",
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544f8c",
+    "province_id": "S07",
+    "province_name": "Haryana",
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544f8d",
+    "province_id": "S08",
+    "province_name": "Himachal Pradesh",
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544f8e",
+    "province_id": "S09",
+    "province_name": "Jammu &amp; Kashmir",
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544f8f",
+    "province_id": "S27",
+    "province_name": "Jharkhand",
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544f90",
+    "province_id": "S10",
+    "province_name": "Karnataka",
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544f91",
+    "province_id": "S11",
+    "province_name": "Kerala",
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544f92",
+    "province_id": "U06",
+    "province_name": "Lakshadweep",
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544f93",
+    "province_id": "S12",
+    "province_name": "Madhya Pradesh",
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544f94",
+    "province_id": "S13",
+    "province_name": "Maharashtra",
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544f95",
+    "province_id": "S14",
+    "province_name": "Manipur",
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544f96",
+    "province_id": "S15",
+    "province_name": "Meghalaya",
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544f97",
+    "province_id": "S16",
+    "province_name": "Mizoram",
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544f98",
+    "province_id": "S17",
+    "province_name": "Nagaland",
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544f99",
+    "province_id": "U05",
+    "province_name": "NCT OF Delhi",
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544f9a",
+    "province_id": "S18",
+    "province_name": "Odisha",
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544f9b",
+    "province_id": "U07",
+    "province_name": "Puducherry",
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544f9c",
+    "province_id": "S19",
+    "province_name": "Punjab",
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544f9d",
+    "province_id": "S20",
+    "province_name": "Rajasthan",
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544f9e",
+    "province_id": "S21",
+    "province_name": "Sikkim",
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544f9f",
+    "province_id": "S22",
+    "province_name": "Tamil Nadu",
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fa0",
+    "province_id": "S29",
+    "province_name": "Telangana",
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fa1",
+    "province_id": "S23",
+    "province_name": "Tripura",
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fa2",
+    "province_id": "S24",
+    "province_name": "Uttar Pradesh",
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fa3",
+    "province_id": "S28",
+    "province_name": "Uttarakhand",
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fa4",
+    "province_id": "S25",
+    "province_name": "West Bengal",
+    "__v": 0
+  }
+]

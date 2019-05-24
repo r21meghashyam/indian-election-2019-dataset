@@ -1,0 +1,3796 @@
+[
+  {
+    "_id": "5ce866173ad053dde7544fa5",
+    "province_id": "S04",
+    "constituency_name": "Araria",
+    "constituency_id": 9,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fa6",
+    "province_id": "S04",
+    "constituency_name": "Arrah",
+    "constituency_id": 32,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fa7",
+    "province_id": "S04",
+    "constituency_name": "Aurangabad",
+    "constituency_id": 37,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fa8",
+    "province_id": "S04",
+    "constituency_name": "Banka",
+    "constituency_id": 27,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fa9",
+    "province_id": "S04",
+    "constituency_name": "Begusarai",
+    "constituency_id": 24,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544faa",
+    "province_id": "S04",
+    "constituency_name": "Bhagalpur",
+    "constituency_id": 26,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fab",
+    "province_id": "S04",
+    "constituency_name": "Buxar",
+    "constituency_id": 33,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fac",
+    "province_id": "S04",
+    "constituency_name": "Darbhanga",
+    "constituency_id": 14,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fad",
+    "province_id": "S04",
+    "constituency_name": "Gaya (SC)",
+    "constituency_id": 38,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fae",
+    "province_id": "S04",
+    "constituency_name": "Gopalganj (SC)",
+    "constituency_id": 17,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544faf",
+    "province_id": "S04",
+    "constituency_name": "Hajipur (SC)",
+    "constituency_id": 21,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fb0",
+    "province_id": "S04",
+    "constituency_name": "Jahanabad",
+    "constituency_id": 36,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fb1",
+    "province_id": "S04",
+    "constituency_name": "Jamui (SC)",
+    "constituency_id": 40,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fb2",
+    "province_id": "S04",
+    "constituency_name": "Jhanjharpur",
+    "constituency_id": 7,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fb3",
+    "province_id": "S04",
+    "constituency_name": "Karakat",
+    "constituency_id": 35,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fb4",
+    "province_id": "S04",
+    "constituency_name": "Katihar",
+    "constituency_id": 11,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fb5",
+    "province_id": "S04",
+    "constituency_name": "Khagaria",
+    "constituency_id": 25,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fb6",
+    "province_id": "S04",
+    "constituency_name": "Kishanganj",
+    "constituency_id": 10,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fb7",
+    "province_id": "S04",
+    "constituency_name": "Madhepura",
+    "constituency_id": 13,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fb8",
+    "province_id": "S04",
+    "constituency_name": "Madhubani",
+    "constituency_id": 6,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fb9",
+    "province_id": "S04",
+    "constituency_name": "Maharajganj",
+    "constituency_id": 19,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fba",
+    "province_id": "S04",
+    "constituency_name": "Munger",
+    "constituency_id": 28,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fbb",
+    "province_id": "S04",
+    "constituency_name": "Muzaffarpur",
+    "constituency_id": 15,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fbc",
+    "province_id": "S04",
+    "constituency_name": "Nalanda",
+    "constituency_id": 29,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fbd",
+    "province_id": "S04",
+    "constituency_name": "Nawada",
+    "constituency_id": 39,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fbe",
+    "province_id": "S04",
+    "constituency_name": "Paschim Champaran",
+    "constituency_id": 2,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fbf",
+    "province_id": "S04",
+    "constituency_name": "Pataliputra",
+    "constituency_id": 31,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fc0",
+    "province_id": "S04",
+    "constituency_name": "Patna Sahib",
+    "constituency_id": 30,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fc1",
+    "province_id": "S04",
+    "constituency_name": "Purnia",
+    "constituency_id": 12,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fc2",
+    "province_id": "S04",
+    "constituency_name": "Purvi Champaran",
+    "constituency_id": 3,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fc3",
+    "province_id": "S04",
+    "constituency_name": "Samastipur (SC)",
+    "constituency_id": 23,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fc4",
+    "province_id": "S04",
+    "constituency_name": "Saran",
+    "constituency_id": 20,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fc5",
+    "province_id": "S04",
+    "constituency_name": "Sasaram (SC)",
+    "constituency_id": 34,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fc6",
+    "province_id": "S04",
+    "constituency_name": "Sheohar",
+    "constituency_id": 4,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fc7",
+    "province_id": "S04",
+    "constituency_name": "Sitamarhi",
+    "constituency_id": 5,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fc8",
+    "province_id": "S04",
+    "constituency_name": "Siwan",
+    "constituency_id": 18,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fc9",
+    "province_id": "S04",
+    "constituency_name": "Supaul",
+    "constituency_id": 8,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fca",
+    "province_id": "S04",
+    "constituency_name": "Ujiarpur",
+    "constituency_id": 22,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fcb",
+    "province_id": "S04",
+    "constituency_name": "Vaishali",
+    "constituency_id": 16,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fcc",
+    "province_id": "S04",
+    "constituency_name": "Valmiki Nagar",
+    "constituency_id": 1,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fcd",
+    "province_id": "S26",
+    "constituency_name": "BASTAR",
+    "constituency_id": 10,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fce",
+    "province_id": "S26",
+    "constituency_name": "BILASPUR",
+    "constituency_id": 5,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fcf",
+    "province_id": "S26",
+    "constituency_name": "DURG",
+    "constituency_id": 7,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fd0",
+    "province_id": "S26",
+    "constituency_name": "JANJGIR-CHAMPA",
+    "constituency_id": 3,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fd1",
+    "province_id": "S26",
+    "constituency_name": "KANKER",
+    "constituency_id": 11,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fd2",
+    "province_id": "S26",
+    "constituency_name": "KORBA",
+    "constituency_id": 4,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fd3",
+    "province_id": "S26",
+    "constituency_name": "MAHASAMUND",
+    "constituency_id": 9,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fd4",
+    "province_id": "S26",
+    "constituency_name": "RAIGARH",
+    "constituency_id": 2,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fd5",
+    "province_id": "S26",
+    "constituency_name": "RAIPUR",
+    "constituency_id": 8,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fd6",
+    "province_id": "S26",
+    "constituency_name": "RAJNANDGAON",
+    "constituency_id": 6,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fd7",
+    "province_id": "S26",
+    "constituency_name": "SARGUJA",
+    "constituency_id": 1,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fd8",
+    "province_id": "S07",
+    "constituency_name": "Ambala",
+    "constituency_id": 1,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fd9",
+    "province_id": "S07",
+    "constituency_name": "Bhiwani-Mahendragarh",
+    "constituency_id": 8,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fda",
+    "province_id": "S07",
+    "constituency_name": "Faridabad",
+    "constituency_id": 10,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fdb",
+    "province_id": "S07",
+    "constituency_name": "Gurgaon",
+    "constituency_id": 9,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fdc",
+    "province_id": "S07",
+    "constituency_name": "Hisar",
+    "constituency_id": 4,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fdd",
+    "province_id": "S07",
+    "constituency_name": "Karnal",
+    "constituency_id": 5,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fde",
+    "province_id": "S07",
+    "constituency_name": "Kurukshetra",
+    "constituency_id": 2,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fdf",
+    "province_id": "S07",
+    "constituency_name": "Rohtak",
+    "constituency_id": 7,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fe0",
+    "province_id": "S07",
+    "constituency_name": "Sirsa",
+    "constituency_id": 3,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fe1",
+    "province_id": "S07",
+    "constituency_name": "Sonipat",
+    "constituency_id": 6,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fe2",
+    "province_id": "S02",
+    "constituency_name": "ARUNACHAL EAST",
+    "constituency_id": 2,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fe4",
+    "province_id": "U04",
+    "constituency_name": "Daman & diu",
+    "constituency_id": 1,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fe5",
+    "province_id": "S09",
+    "constituency_name": "Anantnag",
+    "constituency_id": 3,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fe6",
+    "province_id": "S09",
+    "constituency_name": "Baramulla",
+    "constituency_id": 1,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fe7",
+    "province_id": "S09",
+    "constituency_name": "Jammu",
+    "constituency_id": 6,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fe3",
+    "province_id": "S02",
+    "constituency_name": "ARUNACHAL WEST",
+    "constituency_id": 1,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fe9",
+    "province_id": "S09",
+    "constituency_name": "Srinagar",
+    "constituency_id": 2,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fea",
+    "province_id": "S09",
+    "constituency_name": "Udhampur",
+    "constituency_id": 5,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544feb",
+    "province_id": "S12",
+    "constituency_name": "BALAGHAT",
+    "constituency_id": 15,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fec",
+    "province_id": "S12",
+    "constituency_name": "BETUL",
+    "constituency_id": 29,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fe8",
+    "province_id": "S09",
+    "constituency_name": "Ladakh",
+    "constituency_id": 4,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fee",
+    "province_id": "S12",
+    "constituency_name": "BHOPAL",
+    "constituency_id": 19,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fef",
+    "province_id": "S12",
+    "constituency_name": "CHHINDWARA",
+    "constituency_id": 16,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544ff0",
+    "province_id": "S12",
+    "constituency_name": "DAMOH",
+    "constituency_id": 7,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544ff1",
+    "province_id": "S12",
+    "constituency_name": "DEWAS",
+    "constituency_id": 21,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fed",
+    "province_id": "S12",
+    "constituency_name": "BHIND",
+    "constituency_id": 2,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544ff3",
+    "province_id": "S12",
+    "constituency_name": "GUNA",
+    "constituency_id": 4,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544ff4",
+    "province_id": "S12",
+    "constituency_name": "GWALIOR",
+    "constituency_id": 3,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544ff5",
+    "province_id": "S12",
+    "constituency_name": "HOSHANGABAD",
+    "constituency_id": 17,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544ff6",
+    "province_id": "S12",
+    "constituency_name": "INDORE",
+    "constituency_id": 26,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544ff2",
+    "province_id": "S12",
+    "constituency_name": "DHAR",
+    "constituency_id": 25,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544ff8",
+    "province_id": "S12",
+    "constituency_name": "KHAJURAHO",
+    "constituency_id": 8,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544ff9",
+    "province_id": "S12",
+    "constituency_name": "KHANDWA",
+    "constituency_id": 28,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544ffa",
+    "province_id": "S12",
+    "constituency_name": "KHARGONE",
+    "constituency_id": 27,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544ffb",
+    "province_id": "S12",
+    "constituency_name": "MANDLA",
+    "constituency_id": 14,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544ff7",
+    "province_id": "S12",
+    "constituency_name": "JABALPUR",
+    "constituency_id": 13,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544ffd",
+    "province_id": "S12",
+    "constituency_name": "MORENA",
+    "constituency_id": 1,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544ffe",
+    "province_id": "S12",
+    "constituency_name": "RAJGARH",
+    "constituency_id": 20,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544fff",
+    "province_id": "S12",
+    "constituency_name": "RATLAM",
+    "constituency_id": 24,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545000",
+    "province_id": "S12",
+    "constituency_name": "REWA",
+    "constituency_id": 10,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7544ffc",
+    "province_id": "S12",
+    "constituency_name": "MANDSOUR",
+    "constituency_id": 23,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545002",
+    "province_id": "S12",
+    "constituency_name": "SATNA",
+    "constituency_id": 9,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545003",
+    "province_id": "S12",
+    "constituency_name": "SHAHDOL",
+    "constituency_id": 12,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545004",
+    "province_id": "S12",
+    "constituency_name": "SIDHI",
+    "constituency_id": 11,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545005",
+    "province_id": "S12",
+    "constituency_name": "TIKAMGARH",
+    "constituency_id": 6,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545001",
+    "province_id": "S12",
+    "constituency_name": "SAGAR",
+    "constituency_id": 5,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545008",
+    "province_id": "S17",
+    "constituency_name": "Nagaland",
+    "constituency_id": 1,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545007",
+    "province_id": "S12",
+    "constituency_name": "VIDISHA",
+    "constituency_id": 18,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545009",
+    "province_id": "S20",
+    "constituency_name": "Ajmer",
+    "constituency_id": 13,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754500a",
+    "province_id": "S20",
+    "constituency_name": "Alwar",
+    "constituency_id": 8,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545006",
+    "province_id": "S12",
+    "constituency_name": "UJJAIN",
+    "constituency_id": 22,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754500d",
+    "province_id": "S20",
+    "constituency_name": "BHARATPUR",
+    "constituency_id": 9,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754500e",
+    "province_id": "S20",
+    "constituency_name": "Bhilwara",
+    "constituency_id": 23,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754500c",
+    "province_id": "S20",
+    "constituency_name": "Barmer",
+    "constituency_id": 17,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754500f",
+    "province_id": "S20",
+    "constituency_name": "Bikaner (SC)",
+    "constituency_id": 2,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754500b",
+    "province_id": "S20",
+    "constituency_name": "Banswara",
+    "constituency_id": 20,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545011",
+    "province_id": "S20",
+    "constituency_name": "Churu",
+    "constituency_id": 3,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545012",
+    "province_id": "S20",
+    "constituency_name": "Dausa",
+    "constituency_id": 11,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545014",
+    "province_id": "S20",
+    "constituency_name": "Jaipur",
+    "constituency_id": 7,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545010",
+    "province_id": "S20",
+    "constituency_name": "Chittorgarh",
+    "constituency_id": 21,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545013",
+    "province_id": "S20",
+    "constituency_name": "Ganganagar",
+    "constituency_id": 1,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545017",
+    "province_id": "S20",
+    "constituency_name": "JHALAWAR-BARAN",
+    "constituency_id": 25,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545019",
+    "province_id": "S20",
+    "constituency_name": "Jodhpur",
+    "constituency_id": 16,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545015",
+    "province_id": "S20",
+    "constituency_name": "Jaipur Rural",
+    "constituency_id": 6,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754501c",
+    "province_id": "S20",
+    "constituency_name": "Nagaur",
+    "constituency_id": 14,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545018",
+    "province_id": "S20",
+    "constituency_name": "Jhunjhunu",
+    "constituency_id": 4,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545016",
+    "province_id": "S20",
+    "constituency_name": "Jalore",
+    "constituency_id": 18,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754501e",
+    "province_id": "S20",
+    "constituency_name": "Rajsamand",
+    "constituency_id": 22,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754501a",
+    "province_id": "S20",
+    "constituency_name": "KARAULI-DHOLPUR",
+    "constituency_id": 10,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545021",
+    "province_id": "S20",
+    "constituency_name": "Udaipur",
+    "constituency_id": 19,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754501d",
+    "province_id": "S20",
+    "constituency_name": "Pali",
+    "constituency_id": 15,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754501b",
+    "province_id": "S20",
+    "constituency_name": "Kota",
+    "constituency_id": 24,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545023",
+    "province_id": "S24",
+    "constituency_name": "Akbarpur",
+    "constituency_id": 44,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754501f",
+    "province_id": "S20",
+    "constituency_name": "Sikar",
+    "constituency_id": 5,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545026",
+    "province_id": "S24",
+    "constituency_name": "Ambedkar Nagar",
+    "constituency_id": 55,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545022",
+    "province_id": "S24",
+    "constituency_name": "Agra",
+    "constituency_id": 18,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545020",
+    "province_id": "S20",
+    "constituency_name": "TONK-SAWAI MADHOPUR",
+    "constituency_id": 12,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545028",
+    "province_id": "S24",
+    "constituency_name": "Amroha",
+    "constituency_id": 9,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545024",
+    "province_id": "S24",
+    "constituency_name": "Aligarh",
+    "constituency_id": 15,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754502b",
+    "province_id": "S24",
+    "constituency_name": "Badaun",
+    "constituency_id": 23,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545027",
+    "province_id": "S24",
+    "constituency_name": "Amethi",
+    "constituency_id": 37,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754502d",
+    "province_id": "S24",
+    "constituency_name": "Bahraich",
+    "constituency_id": 56,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545030",
+    "province_id": "S24",
+    "constituency_name": "Bansgaon",
+    "constituency_id": 67,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545029",
+    "province_id": "S24",
+    "constituency_name": "Aonla",
+    "constituency_id": 24,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545025",
+    "province_id": "S24",
+    "constituency_name": "Allahabad",
+    "constituency_id": 52,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754502c",
+    "province_id": "S24",
+    "constituency_name": "Baghpat",
+    "constituency_id": 11,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545032",
+    "province_id": "S24",
+    "constituency_name": "Bareilly",
+    "constituency_id": 25,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754502e",
+    "province_id": "S24",
+    "constituency_name": "Ballia",
+    "constituency_id": 72,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754502a",
+    "province_id": "S24",
+    "constituency_name": "Azamgarh",
+    "constituency_id": 69,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545035",
+    "province_id": "S24",
+    "constituency_name": "Bijnor",
+    "constituency_id": 4,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545031",
+    "province_id": "S24",
+    "constituency_name": "Barabanki",
+    "constituency_id": 53,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545037",
+    "province_id": "S24",
+    "constituency_name": "Chandauli",
+    "constituency_id": 76,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545033",
+    "province_id": "S24",
+    "constituency_name": "Basti",
+    "constituency_id": 61,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754503a",
+    "province_id": "S24",
+    "constituency_name": "Domariyaganj",
+    "constituency_id": 60,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545036",
+    "province_id": "S24",
+    "constituency_name": "Bulandshahr",
+    "constituency_id": 14,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754503c",
+    "province_id": "S24",
+    "constituency_name": "Etawah",
+    "constituency_id": 41,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545038",
+    "province_id": "S24",
+    "constituency_name": "Deoria",
+    "constituency_id": 66,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754503f",
+    "province_id": "S24",
+    "constituency_name": "Fatehpur",
+    "constituency_id": 49,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754502f",
+    "province_id": "S24",
+    "constituency_name": "Banda",
+    "constituency_id": 48,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754503b",
+    "province_id": "S24",
+    "constituency_name": "Etah",
+    "constituency_id": 22,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545041",
+    "province_id": "S24",
+    "constituency_name": "Firozabad",
+    "constituency_id": 20,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754503d",
+    "province_id": "S24",
+    "constituency_name": "Faizabad",
+    "constituency_id": 54,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545044",
+    "province_id": "S24",
+    "constituency_name": "Ghazipur",
+    "constituency_id": 75,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545034",
+    "province_id": "S24",
+    "constituency_name": "Bhadohi",
+    "constituency_id": 78,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545042",
+    "province_id": "S24",
+    "constituency_name": "Gautam Buddha Nagar",
+    "constituency_id": 13,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545040",
+    "province_id": "S24",
+    "constituency_name": "Fatehpur Sikri",
+    "constituency_id": 19,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545046",
+    "province_id": "S24",
+    "constituency_name": "Gonda",
+    "constituency_id": 59,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545049",
+    "province_id": "S24",
+    "constituency_name": "Hardoi",
+    "constituency_id": 31,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545045",
+    "province_id": "S24",
+    "constituency_name": "Ghosi",
+    "constituency_id": 70,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545039",
+    "province_id": "S24",
+    "constituency_name": "Dhaurahra",
+    "constituency_id": 29,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545047",
+    "province_id": "S24",
+    "constituency_name": "Gorakhpur",
+    "constituency_id": 64,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754504e",
+    "province_id": "S24",
+    "constituency_name": "Kairana",
+    "constituency_id": 2,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754504b",
+    "province_id": "S24",
+    "constituency_name": "Jalaun",
+    "constituency_id": 45,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754503e",
+    "province_id": "S24",
+    "constituency_name": "Farrukhabad",
+    "constituency_id": 40,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754504a",
+    "province_id": "S24",
+    "constituency_name": "Hathras",
+    "constituency_id": 16,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754504c",
+    "province_id": "S24",
+    "constituency_name": "Jaunpur",
+    "constituency_id": 73,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545053",
+    "province_id": "S24",
+    "constituency_name": "Kheri",
+    "constituency_id": 28,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545050",
+    "province_id": "S24",
+    "constituency_name": "Kannauj",
+    "constituency_id": 42,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545043",
+    "province_id": "S24",
+    "constituency_name": "Ghaziabad",
+    "constituency_id": 12,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754504f",
+    "province_id": "S24",
+    "constituency_name": "Kaiserganj",
+    "constituency_id": 57,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545051",
+    "province_id": "S24",
+    "constituency_name": "Kanpur",
+    "constituency_id": 43,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545058",
+    "province_id": "S24",
+    "constituency_name": "Maharajganj",
+    "constituency_id": 63,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545055",
+    "province_id": "S24",
+    "constituency_name": "Lalganj",
+    "constituency_id": 68,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545048",
+    "province_id": "S24",
+    "constituency_name": "Hamirpur",
+    "constituency_id": 47,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545054",
+    "province_id": "S24",
+    "constituency_name": "Kushi Nagar",
+    "constituency_id": 65,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545056",
+    "province_id": "S24",
+    "constituency_name": "Lucknow",
+    "constituency_id": 35,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754505d",
+    "province_id": "S24",
+    "constituency_name": "Misrikh",
+    "constituency_id": 32,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754505a",
+    "province_id": "S24",
+    "constituency_name": "Mathura",
+    "constituency_id": 17,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754504d",
+    "province_id": "S24",
+    "constituency_name": "Jhansi",
+    "constituency_id": 46,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545059",
+    "province_id": "S24",
+    "constituency_name": "Mainpuri",
+    "constituency_id": 21,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754505b",
+    "province_id": "S24",
+    "constituency_name": "Meerut",
+    "constituency_id": 10,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545062",
+    "province_id": "S24",
+    "constituency_name": "Phulpur",
+    "constituency_id": 51,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754505f",
+    "province_id": "S24",
+    "constituency_name": "Moradabad",
+    "constituency_id": 6,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545052",
+    "province_id": "S24",
+    "constituency_name": "Kaushambi",
+    "constituency_id": 50,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754505e",
+    "province_id": "S24",
+    "constituency_name": "Mohanlalganj",
+    "constituency_id": 34,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545060",
+    "province_id": "S24",
+    "constituency_name": "Muzaffarnagar",
+    "constituency_id": 3,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545067",
+    "province_id": "S24",
+    "constituency_name": "Robertsganj",
+    "constituency_id": 80,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545064",
+    "province_id": "S24",
+    "constituency_name": "Pratapgarh",
+    "constituency_id": 39,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545057",
+    "province_id": "S24",
+    "constituency_name": "Machhlishahr",
+    "constituency_id": 74,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545063",
+    "province_id": "S24",
+    "constituency_name": "Pilibhit",
+    "constituency_id": 26,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545065",
+    "province_id": "S24",
+    "constituency_name": "Rae Bareli",
+    "constituency_id": 36,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754506c",
+    "province_id": "S24",
+    "constituency_name": "Shahjahanpur",
+    "constituency_id": 27,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545069",
+    "province_id": "S24",
+    "constituency_name": "Salempur",
+    "constituency_id": 71,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754505c",
+    "province_id": "S24",
+    "constituency_name": "Mirzapur",
+    "constituency_id": 79,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545071",
+    "province_id": "S24",
+    "constituency_name": "Varanasi",
+    "constituency_id": 77,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754506a",
+    "province_id": "S24",
+    "constituency_name": "Sambhal",
+    "constituency_id": 8,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545061",
+    "province_id": "S24",
+    "constituency_name": "Nagina",
+    "constituency_id": 5,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754506e",
+    "province_id": "S24",
+    "constituency_name": "Sitapur",
+    "constituency_id": 30,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754506f",
+    "province_id": "S24",
+    "constituency_name": "Sultanpur",
+    "constituency_id": 38,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545068",
+    "province_id": "S24",
+    "constituency_name": "Saharanpur",
+    "constituency_id": 1,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545066",
+    "province_id": "S24",
+    "constituency_name": "Rampur",
+    "constituency_id": 7,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754506d",
+    "province_id": "S24",
+    "constituency_name": "Shrawasti",
+    "constituency_id": 58,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754506b",
+    "province_id": "S24",
+    "constituency_name": "Sant Kabir Nagar",
+    "constituency_id": 62,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545070",
+    "province_id": "S24",
+    "constituency_name": "Unnao",
+    "constituency_id": 33,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545072",
+    "province_id": "S03",
+    "constituency_name": "Autonomous District",
+    "constituency_id": 3,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545073",
+    "province_id": "S03",
+    "constituency_name": "Barpeta",
+    "constituency_id": 6,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545074",
+    "province_id": "S03",
+    "constituency_name": "Dhubri",
+    "constituency_id": 4,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545075",
+    "province_id": "S03",
+    "constituency_name": "Dibrugarh",
+    "constituency_id": 13,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545076",
+    "province_id": "S03",
+    "constituency_name": "Gauhati",
+    "constituency_id": 7,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545077",
+    "province_id": "S03",
+    "constituency_name": "Jorhat",
+    "constituency_id": 12,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545078",
+    "province_id": "S03",
+    "constituency_name": "Kaliabor",
+    "constituency_id": 11,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545079",
+    "province_id": "S03",
+    "constituency_name": "Karimganj ",
+    "constituency_id": 1,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754507a",
+    "province_id": "S03",
+    "constituency_name": "Kokrajhar",
+    "constituency_id": 5,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754507b",
+    "province_id": "S03",
+    "constituency_name": "Lakhimpur",
+    "constituency_id": 14,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754507c",
+    "province_id": "S03",
+    "constituency_name": "Mangaldoi",
+    "constituency_id": 8,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754507d",
+    "province_id": "S03",
+    "constituency_name": "Nowgong",
+    "constituency_id": 10,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754507e",
+    "province_id": "S03",
+    "constituency_name": "Silchar",
+    "constituency_id": 2,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754507f",
+    "province_id": "S03",
+    "constituency_name": "Tezpur",
+    "constituency_id": 9,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545080",
+    "province_id": "S05",
+    "constituency_name": "North Goa",
+    "constituency_id": 1,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545081",
+    "province_id": "S05",
+    "constituency_name": "South Goa",
+    "constituency_id": 2,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545082",
+    "province_id": "S27",
+    "constituency_name": "Chatra",
+    "constituency_id": 4,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545083",
+    "province_id": "S27",
+    "constituency_name": "Dhanbad",
+    "constituency_id": 7,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545084",
+    "province_id": "S27",
+    "constituency_name": "Dumka",
+    "constituency_id": 2,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545085",
+    "province_id": "S27",
+    "constituency_name": "Giridih",
+    "constituency_id": 6,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545086",
+    "province_id": "S27",
+    "constituency_name": "Godda",
+    "constituency_id": 3,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545087",
+    "province_id": "S27",
+    "constituency_name": "Hazaribagh",
+    "constituency_id": 14,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545088",
+    "province_id": "S27",
+    "constituency_name": "Jamshedpur",
+    "constituency_id": 9,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545089",
+    "province_id": "S27",
+    "constituency_name": "Khunti",
+    "constituency_id": 11,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754508a",
+    "province_id": "S27",
+    "constituency_name": "Kodarma",
+    "constituency_id": 5,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754508b",
+    "province_id": "S27",
+    "constituency_name": "Lohardaga",
+    "constituency_id": 12,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754508c",
+    "province_id": "S27",
+    "constituency_name": "Palamau",
+    "constituency_id": 13,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754508d",
+    "province_id": "S27",
+    "constituency_name": "Rajmahal",
+    "constituency_id": 1,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754508e",
+    "province_id": "S27",
+    "constituency_name": "Ranchi",
+    "constituency_id": 8,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754508f",
+    "province_id": "S27",
+    "constituency_name": "Singhbhum",
+    "constituency_id": 10,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545090",
+    "province_id": "S13",
+    "constituency_name": "Ahmadnagar ",
+    "constituency_id": 37,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545091",
+    "province_id": "S13",
+    "constituency_name": "Akola",
+    "constituency_id": 6,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545092",
+    "province_id": "S13",
+    "constituency_name": "Amravati ",
+    "constituency_id": 7,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545093",
+    "province_id": "S13",
+    "constituency_name": "Aurangabad",
+    "constituency_id": 19,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545094",
+    "province_id": "S13",
+    "constituency_name": "Baramati",
+    "constituency_id": 35,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545095",
+    "province_id": "S13",
+    "constituency_name": "Beed",
+    "constituency_id": 39,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545096",
+    "province_id": "S13",
+    "constituency_name": "Bhandara - gondiya",
+    "constituency_id": 11,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545097",
+    "province_id": "S13",
+    "constituency_name": "Bhiwandi",
+    "constituency_id": 23,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545098",
+    "province_id": "S13",
+    "constituency_name": "Buldhana",
+    "constituency_id": 5,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545099",
+    "province_id": "S13",
+    "constituency_name": "Chandrapur",
+    "constituency_id": 13,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754509a",
+    "province_id": "S13",
+    "constituency_name": "Dhule",
+    "constituency_id": 2,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754509b",
+    "province_id": "S13",
+    "constituency_name": "Dindori ",
+    "constituency_id": 20,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754509c",
+    "province_id": "S13",
+    "constituency_name": "Gadchiroli-Chimur",
+    "constituency_id": 12,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754509d",
+    "province_id": "S13",
+    "constituency_name": "Hatkanangle",
+    "constituency_id": 48,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754509e",
+    "province_id": "S13",
+    "constituency_name": "Hingoli ",
+    "constituency_id": 15,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754509f",
+    "province_id": "S13",
+    "constituency_name": "Jalgaon",
+    "constituency_id": 3,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450a0",
+    "province_id": "S13",
+    "constituency_name": "Jalna",
+    "constituency_id": 18,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450a1",
+    "province_id": "S13",
+    "constituency_name": "Kalyan",
+    "constituency_id": 24,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450a2",
+    "province_id": "S13",
+    "constituency_name": "Kolhapur",
+    "constituency_id": 47,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450a3",
+    "province_id": "S13",
+    "constituency_name": "Latur ",
+    "constituency_id": 41,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450a4",
+    "province_id": "S13",
+    "constituency_name": "Madha",
+    "constituency_id": 43,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450a5",
+    "province_id": "S13",
+    "constituency_name": "Maval",
+    "constituency_id": 33,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450a6",
+    "province_id": "S13",
+    "constituency_name": "Mumbai   South",
+    "constituency_id": 31,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450a7",
+    "province_id": "S13",
+    "constituency_name": "Mumbai North",
+    "constituency_id": 26,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450a8",
+    "province_id": "S13",
+    "constituency_name": "Mumbai North central",
+    "constituency_id": 29,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450a9",
+    "province_id": "S13",
+    "constituency_name": "Mumbai North East",
+    "constituency_id": 28,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450aa",
+    "province_id": "S13",
+    "constituency_name": "Mumbai North West",
+    "constituency_id": 27,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450ab",
+    "province_id": "S13",
+    "constituency_name": "Mumbai South central",
+    "constituency_id": 30,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450ac",
+    "province_id": "S13",
+    "constituency_name": "Nagpur ",
+    "constituency_id": 10,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450ad",
+    "province_id": "S13",
+    "constituency_name": "Nanded",
+    "constituency_id": 16,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450ae",
+    "province_id": "S13",
+    "constituency_name": "Nandurbar ",
+    "constituency_id": 1,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450af",
+    "province_id": "S13",
+    "constituency_name": "Nashik",
+    "constituency_id": 21,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450b0",
+    "province_id": "S13",
+    "constituency_name": "Osmanabad",
+    "constituency_id": 40,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450b1",
+    "province_id": "S13",
+    "constituency_name": "Palghar ",
+    "constituency_id": 22,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450b2",
+    "province_id": "S13",
+    "constituency_name": "Parbhani",
+    "constituency_id": 17,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450b3",
+    "province_id": "S13",
+    "constituency_name": "Pune",
+    "constituency_id": 34,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450b4",
+    "province_id": "S13",
+    "constituency_name": "Raigad",
+    "constituency_id": 32,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450b5",
+    "province_id": "S13",
+    "constituency_name": "Ramtek ",
+    "constituency_id": 9,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450b6",
+    "province_id": "S13",
+    "constituency_name": "Ratnagiri - sindhudurg",
+    "constituency_id": 46,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450b7",
+    "province_id": "S13",
+    "constituency_name": "Raver",
+    "constituency_id": 4,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450b8",
+    "province_id": "S13",
+    "constituency_name": "Sangli",
+    "constituency_id": 44,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450b9",
+    "province_id": "S13",
+    "constituency_name": "Satara",
+    "constituency_id": 45,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450ba",
+    "province_id": "S13",
+    "constituency_name": "Shirdi",
+    "constituency_id": 38,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450bb",
+    "province_id": "S13",
+    "constituency_name": "Shirur",
+    "constituency_id": 36,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450bc",
+    "province_id": "S13",
+    "constituency_name": "Solapur ",
+    "constituency_id": 42,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450bd",
+    "province_id": "S13",
+    "constituency_name": "Thane",
+    "constituency_id": 25,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450be",
+    "province_id": "S13",
+    "constituency_name": "Wardha",
+    "constituency_id": 8,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450bf",
+    "province_id": "S13",
+    "constituency_name": "Yavatmal-Washim",
+    "constituency_id": 14,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450c0",
+    "province_id": "U05",
+    "constituency_name": "CHANDNI CHOWK                 ",
+    "constituency_id": 1,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450c1",
+    "province_id": "U05",
+    "constituency_name": "EAST DELHI                    ",
+    "constituency_id": 3,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450c2",
+    "province_id": "U05",
+    "constituency_name": "NEW DELHI                     ",
+    "constituency_id": 4,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450c3",
+    "province_id": "U05",
+    "constituency_name": "NORTH EAST DELHI              ",
+    "constituency_id": 2,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450c4",
+    "province_id": "U05",
+    "constituency_name": "NORTH WEST DELHI              ",
+    "constituency_id": 5,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450c5",
+    "province_id": "U05",
+    "constituency_name": "SOUTH DELHI                   ",
+    "constituency_id": 7,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450c6",
+    "province_id": "U05",
+    "constituency_name": "WEST DELHI                    ",
+    "constituency_id": 6,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450c7",
+    "province_id": "S21",
+    "constituency_name": "Sikkim",
+    "constituency_id": 1,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450c8",
+    "province_id": "S28",
+    "constituency_name": "Almora",
+    "constituency_id": 3,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450c9",
+    "province_id": "S28",
+    "constituency_name": "Garhwal",
+    "constituency_id": 2,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450ca",
+    "province_id": "S28",
+    "constituency_name": "Hardwar",
+    "constituency_id": 5,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450cb",
+    "province_id": "S28",
+    "constituency_name": "Nainital-udhamsingh Nagar",
+    "constituency_id": 4,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450cc",
+    "province_id": "S28",
+    "constituency_name": "Tehri Garhwal",
+    "constituency_id": 1,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450cd",
+    "province_id": "S01",
+    "constituency_name": "Amalapuram ",
+    "constituency_id": 7,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450ce",
+    "province_id": "S01",
+    "constituency_name": "Anakapalli",
+    "constituency_id": 5,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450cf",
+    "province_id": "S01",
+    "constituency_name": "Anantapur",
+    "constituency_id": 19,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450d0",
+    "province_id": "S01",
+    "constituency_name": "Aruku ",
+    "constituency_id": 1,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450d1",
+    "province_id": "S01",
+    "constituency_name": "Bapatla ",
+    "constituency_id": 15,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450d2",
+    "province_id": "S01",
+    "constituency_name": "Chittoor ",
+    "constituency_id": 25,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450d3",
+    "province_id": "S01",
+    "constituency_name": "Eluru ",
+    "constituency_id": 10,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450d4",
+    "province_id": "S01",
+    "constituency_name": "Guntur",
+    "constituency_id": 13,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450d5",
+    "province_id": "S01",
+    "constituency_name": "Hindupur",
+    "constituency_id": 20,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450d6",
+    "province_id": "S01",
+    "constituency_name": "Kadapa",
+    "constituency_id": 21,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450d7",
+    "province_id": "S01",
+    "constituency_name": "Kakinada",
+    "constituency_id": 6,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450d8",
+    "province_id": "S01",
+    "constituency_name": "Kurnool",
+    "constituency_id": 18,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450d9",
+    "province_id": "S01",
+    "constituency_name": "Machilipatnam ",
+    "constituency_id": 11,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450da",
+    "province_id": "S01",
+    "constituency_name": "Nandyal",
+    "constituency_id": 17,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450db",
+    "province_id": "S01",
+    "constituency_name": "Narasaraopet",
+    "constituency_id": 14,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450dc",
+    "province_id": "S01",
+    "constituency_name": "Narsapuram",
+    "constituency_id": 9,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450dd",
+    "province_id": "S01",
+    "constituency_name": "Nellore",
+    "constituency_id": 22,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450de",
+    "province_id": "S01",
+    "constituency_name": "Ongole ",
+    "constituency_id": 16,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450df",
+    "province_id": "S01",
+    "constituency_name": "Rajahmundry",
+    "constituency_id": 8,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450e0",
+    "province_id": "S01",
+    "constituency_name": "Rajampet",
+    "constituency_id": 24,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450e1",
+    "province_id": "S01",
+    "constituency_name": "Srikakulam",
+    "constituency_id": 2,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450e2",
+    "province_id": "S01",
+    "constituency_name": "Tirupati ",
+    "constituency_id": 23,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450e3",
+    "province_id": "S01",
+    "constituency_name": "Vijayawada",
+    "constituency_id": 12,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450e4",
+    "province_id": "S01",
+    "constituency_name": "Visakhapatnam",
+    "constituency_id": 4,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450e5",
+    "province_id": "S01",
+    "constituency_name": "Vizianagaram",
+    "constituency_id": 3,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450e6",
+    "province_id": "U03",
+    "constituency_name": "Dadra And Nagar Haveli",
+    "constituency_id": 1,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450e7",
+    "province_id": "S08",
+    "constituency_name": "Hamirpur",
+    "constituency_id": 3,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450e8",
+    "province_id": "S08",
+    "constituency_name": "Kangra",
+    "constituency_id": 1,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450e9",
+    "province_id": "S08",
+    "constituency_name": "Mandi",
+    "constituency_id": 2,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450ea",
+    "province_id": "S08",
+    "constituency_name": "Shimla",
+    "constituency_id": 4,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450eb",
+    "province_id": "U06",
+    "constituency_name": "Lakshadweep",
+    "constituency_id": 1,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450ec",
+    "province_id": "S16",
+    "constituency_name": "MIZORAM",
+    "constituency_id": 1,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450ed",
+    "province_id": "S19",
+    "constituency_name": "Amritsar",
+    "constituency_id": 2,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450ee",
+    "province_id": "S19",
+    "constituency_name": "Anandpur Sahib",
+    "constituency_id": 6,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450ef",
+    "province_id": "S19",
+    "constituency_name": "Bathinda",
+    "constituency_id": 11,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450f0",
+    "province_id": "S19",
+    "constituency_name": "Faridkot",
+    "constituency_id": 9,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450f1",
+    "province_id": "S19",
+    "constituency_name": "Fatehgarh Sahib",
+    "constituency_id": 8,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450f2",
+    "province_id": "S19",
+    "constituency_name": "Firozpur",
+    "constituency_id": 10,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450f3",
+    "province_id": "S19",
+    "constituency_name": "Gurdaspur",
+    "constituency_id": 1,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450f4",
+    "province_id": "S19",
+    "constituency_name": "Hoshiarpur",
+    "constituency_id": 5,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450f5",
+    "province_id": "S19",
+    "constituency_name": "Jalandhar",
+    "constituency_id": 4,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450f6",
+    "province_id": "S19",
+    "constituency_name": "Khadoor Sahib",
+    "constituency_id": 3,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450f7",
+    "province_id": "S19",
+    "constituency_name": "Ludhiana",
+    "constituency_id": 7,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450f8",
+    "province_id": "S19",
+    "constituency_name": "Patiala",
+    "constituency_id": 13,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450f9",
+    "province_id": "S19",
+    "constituency_name": "Sangrur",
+    "constituency_id": 12,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450fa",
+    "province_id": "S23",
+    "constituency_name": "Tripura East",
+    "constituency_id": 2,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450fb",
+    "province_id": "S23",
+    "constituency_name": "Tripura West",
+    "constituency_id": 1,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450fc",
+    "province_id": "U01",
+    "constituency_name": "Andaman & Nicobar Islands",
+    "constituency_id": 1,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450fd",
+    "province_id": "U02",
+    "constituency_name": "CHANDIGARH",
+    "constituency_id": 1,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450fe",
+    "province_id": "S06",
+    "constituency_name": "Ahmedabad East",
+    "constituency_id": 7,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde75450ff",
+    "province_id": "S06",
+    "constituency_name": "Ahmedabad West",
+    "constituency_id": 8,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545100",
+    "province_id": "S06",
+    "constituency_name": "Amreli",
+    "constituency_id": 14,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545101",
+    "province_id": "S06",
+    "constituency_name": "Anand",
+    "constituency_id": 16,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545102",
+    "province_id": "S06",
+    "constituency_name": "Banaskantha",
+    "constituency_id": 2,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545103",
+    "province_id": "S06",
+    "constituency_name": "Bardoli",
+    "constituency_id": 23,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545104",
+    "province_id": "S06",
+    "constituency_name": "Bharuch",
+    "constituency_id": 22,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545105",
+    "province_id": "S06",
+    "constituency_name": "Bhavnagar",
+    "constituency_id": 15,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545106",
+    "province_id": "S06",
+    "constituency_name": "Chhota Udaipur",
+    "constituency_id": 21,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545107",
+    "province_id": "S06",
+    "constituency_name": "Dahod",
+    "constituency_id": 19,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545108",
+    "province_id": "S06",
+    "constituency_name": "Gandhinagar",
+    "constituency_id": 6,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545109",
+    "province_id": "S06",
+    "constituency_name": "Jamnagar",
+    "constituency_id": 12,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754510a",
+    "province_id": "S06",
+    "constituency_name": "Junagadh",
+    "constituency_id": 13,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754510b",
+    "province_id": "S06",
+    "constituency_name": "Kachchh",
+    "constituency_id": 1,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754510c",
+    "province_id": "S06",
+    "constituency_name": "Kheda",
+    "constituency_id": 17,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754510d",
+    "province_id": "S06",
+    "constituency_name": "Mahesana",
+    "constituency_id": 4,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754510e",
+    "province_id": "S06",
+    "constituency_name": "Navsari",
+    "constituency_id": 25,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754510f",
+    "province_id": "S06",
+    "constituency_name": "Panchmahal",
+    "constituency_id": 18,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545110",
+    "province_id": "S06",
+    "constituency_name": "Patan",
+    "constituency_id": 3,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545111",
+    "province_id": "S06",
+    "constituency_name": "Porbandar",
+    "constituency_id": 11,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545112",
+    "province_id": "S06",
+    "constituency_name": "Rajkot",
+    "constituency_id": 10,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545113",
+    "province_id": "S06",
+    "constituency_name": "Sabarkantha",
+    "constituency_id": 5,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545114",
+    "province_id": "S06",
+    "constituency_name": "Surat",
+    "constituency_id": 24,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545115",
+    "province_id": "S06",
+    "constituency_name": "Surendranagar",
+    "constituency_id": 9,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545116",
+    "province_id": "S06",
+    "constituency_name": "Vadodara",
+    "constituency_id": 20,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545117",
+    "province_id": "S06",
+    "constituency_name": "Valsad",
+    "constituency_id": 26,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545118",
+    "province_id": "S10",
+    "constituency_name": "Bagalkot",
+    "constituency_id": 3,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545119",
+    "province_id": "S10",
+    "constituency_name": "Bangalore central",
+    "constituency_id": 25,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754511a",
+    "province_id": "S10",
+    "constituency_name": "Bangalore North",
+    "constituency_id": 24,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754511b",
+    "province_id": "S10",
+    "constituency_name": "Bangalore Rural",
+    "constituency_id": 23,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754511c",
+    "province_id": "S10",
+    "constituency_name": "Bangalore South",
+    "constituency_id": 26,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754511d",
+    "province_id": "S10",
+    "constituency_name": "Belgaum",
+    "constituency_id": 2,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754511e",
+    "province_id": "S10",
+    "constituency_name": "Bellary",
+    "constituency_id": 9,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754511f",
+    "province_id": "S10",
+    "constituency_name": "Bidar",
+    "constituency_id": 7,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545120",
+    "province_id": "S10",
+    "constituency_name": "Bijapur",
+    "constituency_id": 4,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545121",
+    "province_id": "S10",
+    "constituency_name": "Chamarajanagar",
+    "constituency_id": 22,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545122",
+    "province_id": "S10",
+    "constituency_name": "Chikkballapur",
+    "constituency_id": 27,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545123",
+    "province_id": "S10",
+    "constituency_name": "Chikkodi",
+    "constituency_id": 1,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545124",
+    "province_id": "S10",
+    "constituency_name": "Chitradurga",
+    "constituency_id": 18,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545125",
+    "province_id": "S10",
+    "constituency_name": "Dakshina Kannada",
+    "constituency_id": 17,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545126",
+    "province_id": "S10",
+    "constituency_name": "Davanagere",
+    "constituency_id": 13,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545127",
+    "province_id": "S10",
+    "constituency_name": "Dharwad",
+    "constituency_id": 11,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545128",
+    "province_id": "S10",
+    "constituency_name": "Gulbarga",
+    "constituency_id": 5,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545129",
+    "province_id": "S10",
+    "constituency_name": "Hassan",
+    "constituency_id": 16,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754512a",
+    "province_id": "S10",
+    "constituency_name": "Haveri",
+    "constituency_id": 10,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754512b",
+    "province_id": "S10",
+    "constituency_name": "Kolar",
+    "constituency_id": 28,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754512c",
+    "province_id": "S10",
+    "constituency_name": "Koppal",
+    "constituency_id": 8,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754512d",
+    "province_id": "S10",
+    "constituency_name": "Mandya",
+    "constituency_id": 20,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754512e",
+    "province_id": "S10",
+    "constituency_name": "Mysore",
+    "constituency_id": 21,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754512f",
+    "province_id": "S10",
+    "constituency_name": "Raichur",
+    "constituency_id": 6,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545130",
+    "province_id": "S10",
+    "constituency_name": "Shimoga",
+    "constituency_id": 14,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545131",
+    "province_id": "S10",
+    "constituency_name": "Tumkur",
+    "constituency_id": 19,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545132",
+    "province_id": "S10",
+    "constituency_name": "Udupi Chikmagalur",
+    "constituency_id": 15,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545133",
+    "province_id": "S10",
+    "constituency_name": "Uttara Kannada",
+    "constituency_id": 12,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545134",
+    "province_id": "S14",
+    "constituency_name": "Inner manipur",
+    "constituency_id": 1,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545135",
+    "province_id": "S14",
+    "constituency_name": "Outer manipur",
+    "constituency_id": 2,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545136",
+    "province_id": "S18",
+    "constituency_name": "Aska",
+    "constituency_id": 19,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545137",
+    "province_id": "S18",
+    "constituency_name": "Balasore",
+    "constituency_id": 6,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545138",
+    "province_id": "S18",
+    "constituency_name": "Bargarh",
+    "constituency_id": 1,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545139",
+    "province_id": "S18",
+    "constituency_name": "Berhampur",
+    "constituency_id": 20,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754513a",
+    "province_id": "S18",
+    "constituency_name": "Bhadrak ",
+    "constituency_id": 7,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754513b",
+    "province_id": "S18",
+    "constituency_name": "Bhubaneswar",
+    "constituency_id": 18,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754513c",
+    "province_id": "S18",
+    "constituency_name": "Bolangir",
+    "constituency_id": 10,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754513d",
+    "province_id": "S18",
+    "constituency_name": "Cuttack",
+    "constituency_id": 14,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754513e",
+    "province_id": "S18",
+    "constituency_name": "Dhenkanal",
+    "constituency_id": 9,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754513f",
+    "province_id": "S18",
+    "constituency_name": "Jagatsinghpur ",
+    "constituency_id": 16,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545140",
+    "province_id": "S18",
+    "constituency_name": "Jajpur ",
+    "constituency_id": 8,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545141",
+    "province_id": "S18",
+    "constituency_name": "Kalahandi",
+    "constituency_id": 11,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545142",
+    "province_id": "S18",
+    "constituency_name": "Kandhamal",
+    "constituency_id": 13,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545143",
+    "province_id": "S18",
+    "constituency_name": "Kendrapara ",
+    "constituency_id": 15,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545144",
+    "province_id": "S18",
+    "constituency_name": "Keonjhar ",
+    "constituency_id": 4,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545145",
+    "province_id": "S18",
+    "constituency_name": "Koraput ",
+    "constituency_id": 21,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545146",
+    "province_id": "S18",
+    "constituency_name": "Mayurbhanj ",
+    "constituency_id": 5,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545147",
+    "province_id": "S18",
+    "constituency_name": "Nabarangpur ",
+    "constituency_id": 12,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545148",
+    "province_id": "S18",
+    "constituency_name": "Puri",
+    "constituency_id": 17,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545149",
+    "province_id": "S18",
+    "constituency_name": "Sambalpur",
+    "constituency_id": 3,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754514a",
+    "province_id": "S18",
+    "constituency_name": "Sundargarh ",
+    "constituency_id": 2,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754514b",
+    "province_id": "S22",
+    "constituency_name": "Arakkonam",
+    "constituency_id": 7,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754514c",
+    "province_id": "S22",
+    "constituency_name": "Arani",
+    "constituency_id": 12,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754514d",
+    "province_id": "S22",
+    "constituency_name": "Chennai central",
+    "constituency_id": 4,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754514e",
+    "province_id": "S22",
+    "constituency_name": "Chennai North",
+    "constituency_id": 2,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754514f",
+    "province_id": "S22",
+    "constituency_name": "Chennai South",
+    "constituency_id": 3,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545150",
+    "province_id": "S22",
+    "constituency_name": "Chidambaram ",
+    "constituency_id": 27,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545151",
+    "province_id": "S22",
+    "constituency_name": "Coimbatore",
+    "constituency_id": 20,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545152",
+    "province_id": "S22",
+    "constituency_name": "Cuddalore ",
+    "constituency_id": 26,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545153",
+    "province_id": "S22",
+    "constituency_name": "Dharmapuri",
+    "constituency_id": 10,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545154",
+    "province_id": "S22",
+    "constituency_name": "Dindigul",
+    "constituency_id": 22,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545155",
+    "province_id": "S22",
+    "constituency_name": "Erode",
+    "constituency_id": 17,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545156",
+    "province_id": "S22",
+    "constituency_name": "Kallakurichi",
+    "constituency_id": 14,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545157",
+    "province_id": "S22",
+    "constituency_name": "Kancheepuram ",
+    "constituency_id": 6,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545158",
+    "province_id": "S22",
+    "constituency_name": "Kanniyakumari",
+    "constituency_id": 39,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545159",
+    "province_id": "S22",
+    "constituency_name": "Karur",
+    "constituency_id": 23,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754515a",
+    "province_id": "S22",
+    "constituency_name": "Krishnagiri",
+    "constituency_id": 9,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754515b",
+    "province_id": "S22",
+    "constituency_name": "Madurai",
+    "constituency_id": 32,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754515c",
+    "province_id": "S22",
+    "constituency_name": "Mayiladuthurai",
+    "constituency_id": 28,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754515d",
+    "province_id": "S22",
+    "constituency_name": "Nagapattinam ",
+    "constituency_id": 29,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754515e",
+    "province_id": "S22",
+    "constituency_name": "Namakkal",
+    "constituency_id": 16,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754515f",
+    "province_id": "S22",
+    "constituency_name": "Nilgiris ",
+    "constituency_id": 19,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545160",
+    "province_id": "S22",
+    "constituency_name": "Perambalur",
+    "constituency_id": 25,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545161",
+    "province_id": "S22",
+    "constituency_name": "Pollachi",
+    "constituency_id": 21,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545162",
+    "province_id": "S22",
+    "constituency_name": "Ramanathapuram",
+    "constituency_id": 35,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545163",
+    "province_id": "S22",
+    "constituency_name": "Salem",
+    "constituency_id": 15,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545164",
+    "province_id": "S22",
+    "constituency_name": "Sivaganga",
+    "constituency_id": 31,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545165",
+    "province_id": "S22",
+    "constituency_name": "Sriperumbudur",
+    "constituency_id": 5,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545166",
+    "province_id": "S22",
+    "constituency_name": "Tenkasi ",
+    "constituency_id": 37,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545167",
+    "province_id": "S22",
+    "constituency_name": "Thanjavur",
+    "constituency_id": 30,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545168",
+    "province_id": "S22",
+    "constituency_name": "Theni ",
+    "constituency_id": 33,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545169",
+    "province_id": "S22",
+    "constituency_name": "Thiruvallur ",
+    "constituency_id": 1,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754516a",
+    "province_id": "S22",
+    "constituency_name": "Thoothukkudi",
+    "constituency_id": 36,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754516b",
+    "province_id": "S22",
+    "constituency_name": "Tiruchirappalli",
+    "constituency_id": 24,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754516c",
+    "province_id": "S22",
+    "constituency_name": "Tirunelveli",
+    "constituency_id": 38,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754516d",
+    "province_id": "S22",
+    "constituency_name": "Tiruppur",
+    "constituency_id": 18,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754516e",
+    "province_id": "S22",
+    "constituency_name": "Tiruvannamalai",
+    "constituency_id": 11,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754516f",
+    "province_id": "S22",
+    "constituency_name": "Viluppuram",
+    "constituency_id": 13,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545170",
+    "province_id": "S22",
+    "constituency_name": "Virudhunagar",
+    "constituency_id": 34,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545171",
+    "province_id": "S25",
+    "constituency_name": "Alipurduars",
+    "constituency_id": 2,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545172",
+    "province_id": "S25",
+    "constituency_name": "Arambagh",
+    "constituency_id": 29,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545173",
+    "province_id": "S25",
+    "constituency_name": "Asansol",
+    "constituency_id": 40,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545174",
+    "province_id": "S25",
+    "constituency_name": "Baharampur",
+    "constituency_id": 10,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545175",
+    "province_id": "S25",
+    "constituency_name": "Balurghat",
+    "constituency_id": 6,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545176",
+    "province_id": "S25",
+    "constituency_name": "Bangaon",
+    "constituency_id": 14,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545177",
+    "province_id": "S25",
+    "constituency_name": "Bankura",
+    "constituency_id": 36,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545178",
+    "province_id": "S25",
+    "constituency_name": "Barasat",
+    "constituency_id": 17,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545179",
+    "province_id": "S25",
+    "constituency_name": "Bardhaman Durgapur",
+    "constituency_id": 39,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754517a",
+    "province_id": "S25",
+    "constituency_name": "Bardhaman Purba",
+    "constituency_id": 38,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754517b",
+    "province_id": "S25",
+    "constituency_name": "Barrackpore",
+    "constituency_id": 15,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754517c",
+    "province_id": "S25",
+    "constituency_name": "Basirhat",
+    "constituency_id": 18,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754517d",
+    "province_id": "S25",
+    "constituency_name": "Birbhum",
+    "constituency_id": 42,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754517e",
+    "province_id": "S25",
+    "constituency_name": "Bishnupur",
+    "constituency_id": 37,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754517f",
+    "province_id": "S25",
+    "constituency_name": "Bolpur",
+    "constituency_id": 41,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545180",
+    "province_id": "S25",
+    "constituency_name": "Cooch behar",
+    "constituency_id": 1,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545181",
+    "province_id": "S25",
+    "constituency_name": "Darjeeling",
+    "constituency_id": 4,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545182",
+    "province_id": "S25",
+    "constituency_name": "Diamond harbour",
+    "constituency_id": 21,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545183",
+    "province_id": "S25",
+    "constituency_name": "Dum dum",
+    "constituency_id": 16,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545184",
+    "province_id": "S25",
+    "constituency_name": "Ghatal",
+    "constituency_id": 32,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545185",
+    "province_id": "S25",
+    "constituency_name": "Hooghly",
+    "constituency_id": 28,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545186",
+    "province_id": "S25",
+    "constituency_name": "Howrah",
+    "constituency_id": 25,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545187",
+    "province_id": "S25",
+    "constituency_name": "Jadavpur",
+    "constituency_id": 22,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545188",
+    "province_id": "S25",
+    "constituency_name": "Jalpaiguri",
+    "constituency_id": 3,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545189",
+    "province_id": "S25",
+    "constituency_name": "Jangipur",
+    "constituency_id": 9,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754518a",
+    "province_id": "S25",
+    "constituency_name": "Jhargram",
+    "constituency_id": 33,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754518b",
+    "province_id": "S25",
+    "constituency_name": "Joynagar",
+    "constituency_id": 19,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754518c",
+    "province_id": "S25",
+    "constituency_name": "Kanthi",
+    "constituency_id": 31,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754518d",
+    "province_id": "S25",
+    "constituency_name": "Kolkata Dakshin",
+    "constituency_id": 23,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754518e",
+    "province_id": "S25",
+    "constituency_name": "Kolkata Uttar",
+    "constituency_id": 24,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754518f",
+    "province_id": "S25",
+    "constituency_name": "Krishnanagar",
+    "constituency_id": 12,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545190",
+    "province_id": "S25",
+    "constituency_name": "Maldaha Dakshin",
+    "constituency_id": 8,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545191",
+    "province_id": "S25",
+    "constituency_name": "Maldaha Uttar",
+    "constituency_id": 7,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545192",
+    "province_id": "S25",
+    "constituency_name": "Mathurapur",
+    "constituency_id": 20,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545193",
+    "province_id": "S25",
+    "constituency_name": "Medinipur",
+    "constituency_id": 34,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545194",
+    "province_id": "S25",
+    "constituency_name": "Murshidabad",
+    "constituency_id": 11,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545195",
+    "province_id": "S25",
+    "constituency_name": "Purulia",
+    "constituency_id": 35,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545196",
+    "province_id": "S25",
+    "constituency_name": "Raiganj",
+    "constituency_id": 5,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545197",
+    "province_id": "S25",
+    "constituency_name": "Ranaghat",
+    "constituency_id": 13,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545198",
+    "province_id": "S25",
+    "constituency_name": "Srerampur",
+    "constituency_id": 27,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde7545199",
+    "province_id": "S25",
+    "constituency_name": "Tamluk",
+    "constituency_id": 30,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866173ad053dde754519a",
+    "province_id": "S25",
+    "constituency_name": "Uluberia",
+    "constituency_id": 26,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866183ad053dde754519b",
+    "province_id": "S11",
+    "constituency_name": "Alappuzha",
+    "constituency_id": 15,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866183ad053dde754519c",
+    "province_id": "S11",
+    "constituency_name": "Alathur ",
+    "constituency_id": 9,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866183ad053dde754519d",
+    "province_id": "S11",
+    "constituency_name": "Attingal",
+    "constituency_id": 19,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866183ad053dde754519e",
+    "province_id": "S11",
+    "constituency_name": "Chalakudy",
+    "constituency_id": 11,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866183ad053dde754519f",
+    "province_id": "S11",
+    "constituency_name": "Ernakulam",
+    "constituency_id": 12,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866183ad053dde75451a0",
+    "province_id": "S11",
+    "constituency_name": "Idukki",
+    "constituency_id": 13,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866183ad053dde75451a1",
+    "province_id": "S11",
+    "constituency_name": "Kannur",
+    "constituency_id": 2,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866183ad053dde75451a2",
+    "province_id": "S11",
+    "constituency_name": "Kasaragod",
+    "constituency_id": 1,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866183ad053dde75451a3",
+    "province_id": "S11",
+    "constituency_name": "Kollam",
+    "constituency_id": 18,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866183ad053dde75451a4",
+    "province_id": "S11",
+    "constituency_name": "Kottayam",
+    "constituency_id": 14,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866183ad053dde75451a5",
+    "province_id": "S11",
+    "constituency_name": "Kozhikode",
+    "constituency_id": 5,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866183ad053dde75451a6",
+    "province_id": "S11",
+    "constituency_name": "Malappuram",
+    "constituency_id": 6,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866183ad053dde75451a7",
+    "province_id": "S11",
+    "constituency_name": "Mavelikkara ",
+    "constituency_id": 16,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866183ad053dde75451a8",
+    "province_id": "S11",
+    "constituency_name": "Palakkad",
+    "constituency_id": 8,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866183ad053dde75451a9",
+    "province_id": "S11",
+    "constituency_name": "Pathanamthitta",
+    "constituency_id": 17,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866183ad053dde75451aa",
+    "province_id": "S11",
+    "constituency_name": "Ponnani",
+    "constituency_id": 7,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866183ad053dde75451ab",
+    "province_id": "S11",
+    "constituency_name": "Thiruvananthapuram",
+    "constituency_id": 20,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866183ad053dde75451ac",
+    "province_id": "S11",
+    "constituency_name": "Thrissur",
+    "constituency_id": 10,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866183ad053dde75451ad",
+    "province_id": "S11",
+    "constituency_name": "Vadakara",
+    "constituency_id": 3,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866183ad053dde75451ae",
+    "province_id": "S11",
+    "constituency_name": "Wayanad",
+    "constituency_id": 4,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866183ad053dde75451af",
+    "province_id": "S15",
+    "constituency_name": "Shillong",
+    "constituency_id": 1,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866183ad053dde75451b0",
+    "province_id": "S15",
+    "constituency_name": "Tura ",
+    "constituency_id": 2,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866183ad053dde75451b1",
+    "province_id": "U07",
+    "constituency_name": "Puducherry",
+    "constituency_id": 1,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866183ad053dde75451b2",
+    "province_id": "S29",
+    "constituency_name": "Adilabad ",
+    "constituency_id": 1,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866183ad053dde75451b3",
+    "province_id": "S29",
+    "constituency_name": "Bhongir ",
+    "constituency_id": 14,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866183ad053dde75451b4",
+    "province_id": "S29",
+    "constituency_name": "CHEVELLA",
+    "constituency_id": 10,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866183ad053dde75451b5",
+    "province_id": "S29",
+    "constituency_name": "Hyderabad",
+    "constituency_id": 9,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866183ad053dde75451b6",
+    "province_id": "S29",
+    "constituency_name": "Karimnagar ",
+    "constituency_id": 3,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866183ad053dde75451b7",
+    "province_id": "S29",
+    "constituency_name": "Khammam ",
+    "constituency_id": 17,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866183ad053dde75451b8",
+    "province_id": "S29",
+    "constituency_name": "Mahabubabad  ",
+    "constituency_id": 16,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866183ad053dde75451b9",
+    "province_id": "S29",
+    "constituency_name": "Mahbubnagar",
+    "constituency_id": 11,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866183ad053dde75451ba",
+    "province_id": "S29",
+    "constituency_name": "Malkajgiri",
+    "constituency_id": 7,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866183ad053dde75451bb",
+    "province_id": "S29",
+    "constituency_name": "Medak",
+    "constituency_id": 6,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866183ad053dde75451bc",
+    "province_id": "S29",
+    "constituency_name": "Nagarkurnool",
+    "constituency_id": 12,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866183ad053dde75451bd",
+    "province_id": "S29",
+    "constituency_name": "Nalgonda",
+    "constituency_id": 13,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866183ad053dde75451be",
+    "province_id": "S29",
+    "constituency_name": "Nizamabad",
+    "constituency_id": 4,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866183ad053dde75451bf",
+    "province_id": "S29",
+    "constituency_name": "Peddapalle ",
+    "constituency_id": 2,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866183ad053dde75451c0",
+    "province_id": "S29",
+    "constituency_name": "Secundrabad",
+    "constituency_id": 8,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866183ad053dde75451c1",
+    "province_id": "S29",
+    "constituency_name": "Warangal",
+    "constituency_id": 15,
+    "__v": 0
+  },
+  {
+    "_id": "5ce866183ad053dde75451c2",
+    "province_id": "S29",
+    "constituency_name": "Zahirabad",
+    "constituency_id": 5,
+    "__v": 0
+  }
+]

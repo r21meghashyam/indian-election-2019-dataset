@@ -114,17 +114,17 @@ const getAllVotes=async()=>{
 const createJSON=async () =>{
     if(!(await fs.existsSync("json")))
         await fs.mkdirSync("json");
-    const provinces = await Province.find();
+    const provinces = await Province.find().sort('province_id');
     await fs.writeFileSync("json/provinces.json",JSON.stringify(provinces,null,2));
-    const constituencies = await Constituencies.find();
+    const constituencies = await Constituencies.find().sort('province_id').sort('constituency_id');;
     await fs.writeFileSync("json/constituencies.json",JSON.stringify(constituencies,null,2));
-    const votes = await Votes.find();
+    const votes = await Votes.find().sort('province_id').sort('constituency_id').sort('osn');
     await fs.writeFileSync("json/votes.json",JSON.stringify(votes,null,2));
 }
 
 const main=async()=>{
     //Delete old data, avoiding duplicate entries
-    await Promise.all([
+    /*await Promise.all([
         Province.deleteMany({}),
         Constituencies.deleteMany({}),
         Votes.deleteMany({})
@@ -135,7 +135,7 @@ const main=async()=>{
     const dom = new JSDOM(html);
     await getProvinces(dom);
     await getConstituencies(dom);
-    await getAllVotes();
+    await getAllVotes();*/
     await createJSON();
     console.log("DONE");
     process.exit(0);

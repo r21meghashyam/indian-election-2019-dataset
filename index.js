@@ -2,6 +2,8 @@ const mongoose = require('mongoose');
 const fetch = require('node-fetch');
 const {JSDOM} = require('jsdom');
 const fs = require('fs');
+const { parse } = require('json2csv');
+
 
 
 mongoose.connect('mongodb://localhost:27017/election', {useNewUrlParser: true});
@@ -114,12 +116,29 @@ const getAllVotes=async()=>{
 const createJSON=async () =>{
     if(!(await fs.existsSync("json")))
         await fs.mkdirSync("json");
+    if(!(await fs.existsSync("csv")))
+        await fs.mkdirSync("csv");
     const provinces = await Province.find().sort('province_id');
     await fs.writeFileSync("json/provinces.json",JSON.stringify(provinces,null,2));
     const constituencies = await Constituencies.find().sort('province_id').sort('constituency_id');;
     await fs.writeFileSync("json/constituencies.json",JSON.stringify(constituencies,null,2));
     const votes = await Votes.find().sort('province_id').sort('constituency_id').sort('osn');
     await fs.writeFileSync("json/votes.json",JSON.stringify(votes,null,2));
+    const csv = parse(votes, {fields:[
+        'province_id',
+        'province_name',
+        'constituency_id',
+        'constituency_name',
+        'type',
+        'osn',
+        'candidate_name',
+        'party_name',
+        'evm_votes',
+        'postal_votes',
+        'total_votes',
+        'vote_share'
+    ]});
+    await fs.writeFileSync("csv/votes.csv",csv);
 }
 
 const main=async()=>{

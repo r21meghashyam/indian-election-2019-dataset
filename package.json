@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "jsdom": "^15.1.0",
+    "json2csv": "^4.5.1",
     "mongoose": "^5.5.11",
     "node-fetch": "^2.6.0"
   }

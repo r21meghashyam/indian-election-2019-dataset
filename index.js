@@ -1,21 +1,18 @@
-const fetch = require('node-fetch');
-const {JSDOM} = require('jsdom');
-const fs = require('fs');
-let Provinces=[];
-let Votes=[];
-let count = 0;
-let _count =0;
+const fetch = require('node-fetch')
+const {JSDOM} = require('jsdom')
+const fs = require('fs')
+let Provinces=[]
+let Votes=[]
+let count = 0
+let _count =0
 const main=async()=>{
-    const html = await (await fetch(`http://results.eci.gov.in/pc/en/constituencywise/ConstituencywiseU011.htm`)).text()
-    const doc = new JSDOM(html).window.document
-    
+    const doc = new JSDOM(await (await fetch(`http://results.eci.gov.in/pc/en/constituencywise/ConstituencywiseU011.htm`)).text()).window.document
     doc.querySelectorAll("#ddlState option").forEach(option=>{
         if(!option.value.match(/^[SU]\d/))
             return;
         Provinces[option.value] = option.innerHTML
     })
     await Promise.all(Array.from(doc.querySelectorAll("input")).map(async input=>{
-        
         if(input.id.match(/^[^SU]/))
             return
         const constituencies = input.value.split(";");

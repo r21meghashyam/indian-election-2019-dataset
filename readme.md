@@ -4,12 +4,14 @@ This data is extracted from the election commission website: http://results.eci.
 
 Data is available in JSON as well as CSV format. votes.csv & votes.json contains the votes for each candidates along with vote share and other details.
 
-The extracting program is saving data to mongodb, if you are interested in modifying or running the program then please install all the prerequisites for the program to run.
+index.js extracts the data and stores it in votes.json in the same folder. It is a minfied file.
+
+usemongo.js needs mongoDB server running, it just stores the extracted data in the database. Here data is extracted and the data is saved as json & csv.
 
 ## Pre requisites
 1. Node js, Version 10 or above
-2. MongoDB
-3. Git Bash (for git clone)
+2. MongoDB (optional)
+3. Git Bash (optional, for git clone)
 
 ## Installation
 ```
@@ -19,9 +21,14 @@ The extracting program is saving data to mongodb, if you are interested in modif
 ```
 
 # Run
+```
+    node index.js
+```
+
+## Running with Mongodb
 Assuming mongo server is running in background.
 ```
-    node .
+    node usemongo.js
 ```
 
 # Tips
